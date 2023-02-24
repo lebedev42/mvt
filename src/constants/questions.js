@@ -300,19 +300,19 @@ export const QUESTIONS = [
       },
       {
         id: 'b4157ad2-d6e0-52ca-8538-4b13368c1e65',
-        t: '415 рублей',
+        t: '350 рублей',
         a: '<div><span>Мимо.</span><p class="result-text">Такая поездка днем стоит 270 рублей. Но теперь, <strong>если совершить покупки в МЕГЕ на сумму от 3000 рублей, можно сэкономить</strong> и на этом! Достаточно показать чеки своих покупок на стойке информации. <br/><strong>Подробнее об акции <a href="https://mega.ru/events/2021/34613/nn/" target="_blank" class="result-link">тут</a>.</strong></p></div>',
         isCorrect: false,
       },
       {
         id: 'e2c8b4ab-94a4-5de9-958c-b020ae977237',
-        t: '500 рублей',
+        t: '470 рублей',
         a: '<div><span>Мимо.</span><p class="result-text">Такая поездка днем стоит 270 рублей. Но теперь, <strong>если совершить покупки в МЕГЕ на сумму от 3000 рублей, можно сэкономить</strong> и на этом! Достаточно показать чеки своих покупок на стойке информации. <br/><strong>Подробнее об акции <a href="https://mega.ru/events/2021/34613/nn/" target="_blank" class="result-link">тут</a>.</strong></p></div>',
         isCorrect: false,
       },
       {
         id: '92743aa6-d14f-5f52-8bc3-fe32360e0c7e',
-        t: '650 рублей',
+        t: '540 рублей',
         a: '<div><span>Мимо.</span><p class="result-text">Такая поездка днем стоит 270 рублей. Но теперь, <strong>если совершить покупки в МЕГЕ на сумму от 3000 рублей, можно сэкономить</strong> и на этом! Достаточно показать чеки своих покупок на стойке информации. <br/><strong>Подробнее об акции <a href="https://mega.ru/events/2021/34613/nn/" target="_blank" class="result-link">тут</a>.</strong></p></div>',
         isCorrect: false,
       },

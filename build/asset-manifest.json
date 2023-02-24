@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "./static/css/main.b90f115b.css",
-    "main.js": "./static/js/main.4599024a.js",
+    "main.js": "./static/js/main.7d76747f.js",
     "static/media/Roboto-Medium-webfont.woff": "./static/media/Roboto-Medium-webfont.7157933a0a31a588c00f.woff",
     "static/media/Roboto-Bold-webfont.woff": "./static/media/Roboto-Bold-webfont.232db9bf3c3932654a51.woff",
     "static/media/Roboto-Regular-webfont.woff": "./static/media/Roboto-Regular-webfont.e494e50e01c5d4a86d23.woff",
     "static/media/desktop.png": "./static/media/desktop.e61de4d7c5910f56d2f4.png",
     "index.html": "./index.html",
     "main.b90f115b.css.map": "./static/css/main.b90f115b.css.map",
-    "main.4599024a.js.map": "./static/js/main.4599024a.js.map"
+    "main.7d76747f.js.map": "./static/js/main.7d76747f.js.map"
   },
   "entrypoints": [
     "static/css/main.b90f115b.css",
-    "static/js/main.4599024a.js"
+    "static/js/main.7d76747f.js"
   ]
 }
