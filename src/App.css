@@ -15,7 +15,6 @@ time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	font-size: 100%;
-	font: inherit;
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
@@ -107,8 +106,6 @@ table {
 }
 
 .answer-text {
-  display: flex;
-  justify-content: center;
   width: 295px;
   min-height: 135px;
   margin-top: 16px;
@@ -122,6 +119,22 @@ table {
   color: #000000;
 }
 
+.answer-text span {
+  display: block;
+  width: 320px;
+  margin: 24px auto 24px;
+}
+
+.result-text {
+  border-radius: 6px;
+  border: 2px solid #000000;
+  background-color: #FFDB00;
+  width: 320px;
+  padding: 30px;
+}
+.result-text strond {
+  font-weight: bold;
+}
 .result-link {
   font-family: 'Roboto';
   font-style: normal;
